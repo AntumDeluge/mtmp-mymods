@@ -16,3 +16,6 @@
 [submodule "mysheetmetal"]
 	path = mysheetmetal
 	url = git://github.com/minetest-mods/mysheetmetal.git
+[submodule "mydoors"]
+	path = mydoors
+	url = git://github.com/minetest-mods/mydoors.git
