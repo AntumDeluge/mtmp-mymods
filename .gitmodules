@@ -10,3 +10,6 @@
 [submodule "mylights"]
 	path = mylights
 	url = git://github.com/minetest-mods/mylights.git
+[submodule "myfences"]
+	path = myfences
+	url = git://github.com/DonBatman/myfences.git
