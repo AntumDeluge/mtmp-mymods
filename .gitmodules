@@ -25,3 +25,6 @@
 [submodule "mydeck"]
 	path = mydeck
 	url = git://github.com/minetest-mods/mydeck.git
+[submodule "mypaths"]
+	path = mypaths
+	url = git://github.com/minetest-mods/mypaths.git
