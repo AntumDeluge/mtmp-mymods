@@ -4,3 +4,6 @@
 [submodule "mywoodslopes"]
 	path = mywoodslopes
 	url = git://github.com/minetest-mods/mywoodslopes.git
+[submodule "worldedge"]
+	path = worldedge
+	url = git://github.com/minetest-mods/worldedge.git
