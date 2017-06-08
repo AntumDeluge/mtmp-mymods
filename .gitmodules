@@ -13,3 +13,6 @@
 [submodule "myfences"]
 	path = myfences
 	url = git://github.com/DonBatman/myfences.git
+[submodule "mysheetmetal"]
+	path = mysheetmetal
+	url = git://github.com/minetest-mods/mysheetmetal.git
