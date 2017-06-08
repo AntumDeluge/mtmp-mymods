@@ -22,3 +22,6 @@
 [submodule "mypaint"]
 	path = mypaint
 	url = git://github.com/DonBatman/mypaint.git
+[submodule "mydeck"]
+	path = mydeck
+	url = git://github.com/minetest-mods/mydeck.git
