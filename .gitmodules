@@ -7,3 +7,6 @@
 [submodule "worldedge"]
 	path = worldedge
 	url = git://github.com/minetest-mods/worldedge.git
+[submodule "mylights"]
+	path = mylights
+	url = git://github.com/minetest-mods/mylights.git
