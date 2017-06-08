@@ -2,7 +2,7 @@
 
 ### Description
 
-***[MyMods][]*** are several different mods by [DonBatman][]. This modpack contains Git submodules for select mods for use in [Minetest][].
+***[MyMods][]*** are a set of several different mods by [DonBatman][]. This modpack contains [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for select mods for use in [Minetest][].
 
 ### Included Mods:
 
