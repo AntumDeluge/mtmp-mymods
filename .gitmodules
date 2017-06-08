@@ -19,3 +19,6 @@
 [submodule "mydoors"]
 	path = mydoors
 	url = git://github.com/minetest-mods/mydoors.git
+[submodule "mypaint"]
+	path = mypaint
+	url = git://github.com/DonBatman/mypaint.git
