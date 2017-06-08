@@ -1,3 +1,6 @@
 [submodule "myroofs"]
 	path = myroofs
 	url = git://github.com/minetest-mods/myroofs.git
+[submodule "mywoodslopes"]
+	path = mywoodslopes
+	url = git://github.com/minetest-mods/mywoodslopes.git
