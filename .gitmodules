@@ -28,3 +28,6 @@
 [submodule "mypaths"]
 	path = mypaths
 	url = git://github.com/minetest-mods/mypaths.git
+[submodule "mysiding"]
+	path = mysiding
+	url = git://github.com/DonBatman/mysiding.git

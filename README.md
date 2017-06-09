@@ -14,6 +14,7 @@
 - [mypaths][] (DWYWPL)
 - [myroofs][] (DWYWPL)
 - [mysheetmetal][] (DWYWPL)
+- [mysiding][] (WTFPL)
 - [mywoodslopes][] (DWYWPL)
 - [worldedge][] (DWYWPL)
 
@@ -30,5 +31,6 @@
 [mypaths]: https://forum.minetest.net/viewtopic.php?t=11388
 [myroofs]: https://forum.minetest.net/viewtopic.php?t=11416
 [mysheetmetal]: https://forum.minetest.net/viewtopic.php?t=11702
+[mysiding]: https://forum.minetest.net/viewtopic.php?t=14207
 [mywoodslopes]: https://forum.minetest.net/viewtopic.php?t=11433
 [worldedge]: https://forum.minetest.net/viewtopic.php?t=10753
